@@ -1,13 +1,13 @@
 module.exports = {
   title: 'NodeArch',
   tagline: 'Node.JS Backend framework',
-  url: 'https://nodearchjs.com',
+  url: 'https://nodearch.io',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'bluemax-io', // Usually your GitHub org/user name.
-  projectName: 'nodearchjs.com', // Usually your repo name.
+  projectName: 'nodearch.io', // Usually your repo name.
   themeConfig: {
     navbar: {
       title: 'NodeArch',
@@ -89,7 +89,7 @@ module.exports = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           editUrl:
-            'https://github.com/bluemax-io/nodearchjs.com/edit/source/website/',
+            'https://github.com/bluemax-io/nodearch.io/edit/master/',
         },
         // blog: {
         //   showReadingTime: true,
