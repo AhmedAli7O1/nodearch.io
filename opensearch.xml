@@ -4,8 +4,8 @@
   <ShortName>NodeArch</ShortName>
   <Description>Search NodeArch</Description>
   <InputEncoding>UTF-8</InputEncoding>
-  <Image width="16" height="16" type="image/x-icon">https://nodearchjs.com/img/favicon.ico</Image>
-  <Url type="text/html" method="get" template="https://nodearchjs.com/search?q={searchTerms}"/>
-  <Url type="application/opensearchdescription+xml" rel="self" template="https://nodearchjs.com/opensearch.xml" />
-  <moz:SearchForm>https://nodearchjs.com</moz:SearchForm>
+  <Image width="16" height="16" type="image/x-icon">https://nodearch.io/img/favicon.ico</Image>
+  <Url type="text/html" method="get" template="https://nodearch.io/search?q={searchTerms}"/>
+  <Url type="application/opensearchdescription+xml" rel="self" template="https://nodearch.io/opensearch.xml" />
+  <moz:SearchForm>https://nodearch.io</moz:SearchForm>
 </OpenSearchDescription>
