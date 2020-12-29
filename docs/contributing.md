@@ -5,4 +5,4 @@ sidebar_label: Contributing
 slug: /contributing
 ---
 
-asdsdasd
+TODO

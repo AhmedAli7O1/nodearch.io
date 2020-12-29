@@ -1,6 +1,6 @@
 module.exports = {
   someSidebar: {
-    NodeArch: ['introduction', 'design-principles', 'contributing'],
+    NodeArch: ['introduction', 'architecture', 'contributing'],
     'Get Started': ['installation']
   },
 };
