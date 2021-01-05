@@ -1,6 +1,14 @@
 module.exports = {
-  someSidebar: {
-    NodeArch: ['introduction', 'architecture', 'contributing'],
-    'Get Started': ['installation']
-  },
+  docs: [
+    {
+      type: 'category',
+      label: 'NodeArch',
+      items: ['introduction', 'architecture', 'contributing']
+    },
+    {
+      type: 'category',
+      label: 'Getting Started',
+      items: ['installation']
+    }
+  ]
 };
